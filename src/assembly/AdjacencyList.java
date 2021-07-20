@@ -6,6 +6,7 @@ import java.util.HashMap;
 import component.Linkable;
 
 public class AdjacencyList implements ModuleStorage {
+	
 	//专门用来存储无向图的邻接表
 	//n是顶点数，m是边的数量
 	private int n=0, m=0;
